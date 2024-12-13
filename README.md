@@ -1,6 +1,8 @@
 # RESI
 Robust effect size index (RESI) estimation Use resi (RESI) With (In) R Software
 
+https://www.youtube.com/watch?v=xNBD7wU4izs
+
 Olah Data Semarang
 
 WA : +6285227746673 (085227746673)
